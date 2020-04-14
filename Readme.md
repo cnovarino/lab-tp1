@@ -1,2 +1,2 @@
 # Cristian Novarino
-[Fake CV](./cv.pdf)
+[Fake CV](./cv.md)
