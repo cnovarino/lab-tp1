@@ -12,7 +12,7 @@
 `Servicio Tecnico de PC`
 
 ---
-#### Trabajo 2 &emsp; <small>*2012 - 2019*</small>
+#### Trabajo 2 &emsp; <small>*2012 - 2002*</small>
 `Desarrollo Web y Mobile`
 
 ---
