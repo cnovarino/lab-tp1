@@ -18,3 +18,6 @@ Es la version remota del archivo el cual se esta tratando de mergear con el arch
 
 ### Version Base
 Es el ultimo commit que tienen en comun entre las versiones local y remota. Sirve para poder tomar la decision a la hora de mergear.
+
+
+[Volver](./Readme.md)
